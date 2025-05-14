@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate full-stack developer with a strong foundation in programming and data structures and algorithms (DSA). I enjoy building dynamic web applications that enhance user experiences and solve real-world problems. As the president of the Robotics and AI Club, I actively explore innovative technologies and collaborate with like-minded individuals.
+I am a passionate full-stack developer with a strong foundation in programming and data structures and algorithms (DSA). I enjoy building dynamic web applications that enhance user experiences and solve real-world problems. I actively explore innovative technologies and collaborate with like-minded individuals.
 
 ## Skills
 
